@@ -82,9 +82,10 @@ p, h2, h3{
     padding: 0 10%;
 }
 
-article {
-    margin-top: 5rem;
+article{
+    padding: 2rem 0;
 }
+
 
 @media (min-width: 720px) {
     .box{
